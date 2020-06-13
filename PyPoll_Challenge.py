@@ -3,8 +3,8 @@
 # 3. Total number of votes each candidate received
 # 4. Percentage of votes each candidate won
 # 5. The winner of the election based on popular vote
-# 6. Votes for each county
-# 7. Percentage of votes each county contributed
+# 6. Calculate the number and percentage of votes for each county 
+# 7. Determine the largest county 
 
 import csv
 import os
