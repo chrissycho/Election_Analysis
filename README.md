@@ -13,29 +13,29 @@ The Colorado election commission has asked elections employees to
 8. Determine which county has the largest voter turnout
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code, 1.45.1
+- Data Source: election_results.csv
+- Software: Python 3.7.6, Visual Studio Code, 1.45.1
 
 ## Challenge Summary
 The analysis of the election show that:
--There were "369,711" votes cast in the election.
--The candidates were:
-    -Charles Casper Stockham
-    -Diana DeGette
-    -Raymon Anthony Doane
--The candidate results were:
-    -Charles Casper Stockham received "23%" of the vote and "85,213" number of votes.
-    -Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
-    -Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
--The winner of the election was:
-    -Diane DeGette, who received "73.8%" of the vote and "272,892" number of votes.
--The counties were:
-    -Jefferson
-    -Denver
-    -Arapahoe
--The county results were:
-    -Jefferson contributed "10.5%" of the vote and "38,855" number of votes.
-    -Denver contributed "82.8%" of the vote and "306,055" number of votes.
-    -Arapahoe contributed "6.7%" of the vote and "24,801" number of votes.
--The county with the largest voter turnout was:
-    -Denver, which contributed "82.8%" of the vote and "306,055" number of votes. 
+- There were "369,711" votes cast in the election.
+- The candidates were:
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
+- The candidate results were:
+    - Charles Casper Stockham received "23%" of the vote and "85,213" number of votes.
+    - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+    - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
+- The winner of the election was:
+    - Diane DeGette, who received "73.8%" of the vote and "272,892" number of votes.
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county results were:
+    - Jefferson contributed "10.5%" of the vote and "38,855" number of votes.
+    - Denver contributed "82.8%" of the vote and "306,055" number of votes.
+    - Arapahoe contributed "6.7%" of the vote and "24,801" number of votes.
+- The county with the largest voter turnout was:
+    - Denver, which contributed "82.8%" of the vote and "306,055" number of votes. 
