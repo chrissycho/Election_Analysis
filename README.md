@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Challenge Overview
-The Colorado election commission has asked elections employees to 
+A Colorado Board of employees has given me the following tasks to complete the election aduit of a recent local congressional election.
 
 1. Calculate the total number of votes cast
 2. Get a complete list of candidates who received votes
